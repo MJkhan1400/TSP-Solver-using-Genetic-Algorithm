@@ -59,7 +59,7 @@ The cost of the best route in each generation is plotted to show the improvement
 
 ![Data File](./images/data_file.png)
 
-## Asking the user to specify the number of locations in the file
+##### Asking the user to specify the number of locations in the file
 
 ![Number of locations](./images/number_of_location.png)
 
