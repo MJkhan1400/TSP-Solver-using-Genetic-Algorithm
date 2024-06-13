@@ -84,7 +84,3 @@ This module defines the `City` and `Chromosome` classes. It also handles the cre
 ### Genetic_Algorithm.py
 
 This module implements the genetic algorithm, including functions for initialization, selection, crossover, mutation, and evolution.
-
----
-
-Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues or have suggestions for improvements, please open an issue in the repository. Happy coding!
